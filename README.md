@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @DARKLOVE17
+- 👋 Hi, I’m @Sri Revanth
 - 👀 I’m interested in fusion360
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me mail:srirevanth612345@gmail.com
-- 😄 Pronouns: kushi
 
 
 <!---
